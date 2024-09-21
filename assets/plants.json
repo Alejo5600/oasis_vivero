@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Aloe Vera",
+        "description": "Planta medicinal utilizada en cremas y productos de belleza.",
+        "price": 7.99,
+        "image": "https://i2.pickpik.com/photos/416/852/1013/aloe-vera-succulent-potted-plant-preview.jpg"
+    },
+    {
+        "name": "Cactus",
+        "description": "Una planta resistente que crece en el desierto.",
+        "price": 5.99,
+        "image": "https://res.cloudinary.com/compo-com/image/fetch/c_fill,g_xy_center,f_auto,w_708,h_531,x_iw_mul_46_div_100,y_ih_mul_41_div_100/https://www.compo.de/dam/jcr:5e382c1a-8128-4670-9f96-a75044fe31b2/Kaktus%20Blumentopf.jpg"
+    }
+  ]
+  
