@@ -38,3 +38,17 @@ Oasis Vivero App es una aplicación creada con Flutter que permite a los usuario
    ```bash
     flutter run
    ``` 
+
+## Capturas de Pantalla
+
+### Lista de Plantas
+![Lista de Plantas](assets/screenshots/lista_plantas.png)
+
+### Detalles de una Planta
+![Detalles de Planta](assets/screenshots/detalles_planta.png)
+
+### Menú Lateral (Drawer)
+![Menú Lateral](assets/screenshots/menu_lateral.png)
+
+### Sección "Sobre Nosotros" con Mapa
+![Sobre Nosotros](assets/screenshots/sobre_nosotros_mapa.png)
